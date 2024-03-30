@@ -1,0 +1,33 @@
+{
+  "name": "toolgenius",
+  "version": "1.0.2",
+  "description": "toolgenius",
+  "type": "module",
+  "main": "toolgenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/puttyupe0/toolgenius"
+  },
+  "website": "https://github.com/puttyupe0/toolgenius.git",
+  "keywords": [
+    "toolgenius"
+  ],
+  "author": "puttyupe0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puttyupe0/toolgenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/puttyupe0/toolgenius#readme",
+  "dependencies": {
+		"codeforgekit": "1.0.2",
+		"devwizardry": "1.0.2",
+		"codesenseikit": "1.0.2"  
+  }
+}
